@@ -1,0 +1,3 @@
+[submodule "MCQ"]
+	path = MCQ
+	url = https://github.com/ibnabbas/MCQ.git
